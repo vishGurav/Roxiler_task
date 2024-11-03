@@ -4,7 +4,7 @@ This is a MERN (MongoDB, Express, React, Node.js) stack task that includes separ
 # Installation Instructions
 
 #  Clone the Repository
-https://github.com/vishGurav/ADVA_Ass
+https://github.com/vishGurav/Roxiler_task
 cd backend
 npm start
 
